@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Prime Day – Limited-Time Offer!</title>
+    <style>
+        body {
+            font-family: Calibri, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f6f6f6;
+        }
+        .container {
+            max-width: 600px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+        .header-image {
+            width: 100%;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .button {
+            display: inline-block;
+            padding: 12px 24px;
+            background-color: #0073e6;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .button:hover {
+            background-color: #005bb5;
+        }
+        h2 {
+            color: #b12704;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 12px;
+            color: #999999;
+        }
+        .footer a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <!-- Header Image -->
+        <a href="https://www.amazon.com/prime" target="_blank">
+            <img class="header-image" src="https://cdn.mos.cms.futurecdn.net/Kgpcz6aok5VuP4ow5oYfTQ.jpg" alt="Amazon Prime Day Announcement">
+        </a>
+
+        <!-- Promotion Heading -->
+        <h2>Get 50% Off Prime Membership – Limited Time!!</h2>
+
+        <!-- Promotion Description -->
+        <div style="margin-top: 0px; margin-bottom: 20px;">
+            Get ready to make the most of Prime Day, happening <strong>8<sup>th</sup> to 11<sup>th</sup> July!</strong><br>
+            For a limited time, become an Amazon Prime member at half the price and unlock a world of fast, free delivery, exclusive deals, must-watch shows, and unbeatable perks—tailored just for you. Don't miss out on the celebration!
+        </div>
+
+        <!-- Call to Action Button -->
+        <center>
+            <a class="button" href="https://www.amazon.com/prime" target="_blank">Join Prime Now</a>
+        </center>
+
+        <!-- Offer Validity and Terms -->
+        <p>
+            <span style="font-size: 10pt;">Offer valid till </span><b><span style="font-size: 10pt;">30<sup>th</sup> June</span></b><span style="font-size: 10pt;">.</span>
+            <a href="https://www.amazon.com/prime" target="_blank" style="font-size: 10pt;">Terms and conditions</a> applied.
+        </p>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>Powered by Amazon</p>
+        </div>
+    </div>
+
+</body>
+</html>
