@@ -1,0 +1,46 @@
+<title>Amazon Prime Day – Limited-Time Offer!</title>
+  <style>
+    body {
+      font-family: Calibri, sans-serif;
+      /*background-color: #f6f6f6;*/
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      /* background-color: #ffffff;*/
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .header-image {
+      width: 100%;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+    .button {
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: #0073e6;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+    .footer {
+      margin-top: 30px;
+      font-size: 12px;
+      color: #999999;
+    }
+  </style>
+ 
+  <div class="container">
+    <a rel="noopener" href="${phishingUrl}" tabindex="0" target="_self"><img class="header-image" src="https://cdn.mos.cms.futurecdn.net/Kgpcz6aok5VuP4ow5oYfTQ.jpg" alt="Amazon Prime Day Announcement"></a>
+    <h2 style="color: #b12704;"> Get 50% Off Prime Membership – Limited Time!!</h2>
+    <div style="margin-top: 0px; margin-bottom: 20px;">Get ready to make the most of Prime Day, happening<strong> 8<sup>th</sup>to 11<sup>th</sup></strong><span style="font-size: 14px; background-color: rgb(255, 255, 255)"><b>July!&nbsp;</b>F</span>or a limited time, become an Arnazon Prime member at half the price and unlock a world of fast, free delivery, exclusive deals, must-watch shows, and unbeatable perks—tailored just for you. Don't miss out on the celebration!</div>
+    <p></p><center><a rel="noopener" class="button" href="${phishingUrl}" tabindex="-1" target="_self">Join Prime Now</a></center><p></p>
+    <p><span style="font-size: 10pt;">Offer valid till </span><b><span style="font-size: 10pt;">30</span><sup><span style="font-size: 10pt;">th</span></sup><span style="font-size: 10pt;">&nbsp;June</span></b><span style="font-size: 10pt;">. </span><a rel="noopener" href="${phishingUrl}" tabindex="-1" target="_self"><span style="font-size: 10pt;"> Terms and conditions</span></a> applied.</p>
+    <div class="footer"><br></div>
+  </div>
+ 
